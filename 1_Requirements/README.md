@@ -6,9 +6,9 @@
      1. Pocket Caluculator
      2. Scientific Caluculator
   ## Pocket Caluculator: 
-    * It is a small caluculator in which we can perform only basic arthmetic operations like     addition, subtraction, multiplication, division.It is small in size.Most of the pocket caluculators are solar based.
+  It is a small caluculator in which we can perform only basic arthmetic operations like     addition,subtraction,multiplication, division.It is small in size.Most of the pocket caluculators are solar based.
   ## Scientific Caluculator:
-    * It can do more operations than pocket caluculator like trignometric functions,square and   cube of a numbers, factorials etc.We can use bigger numbers in this caluculator.
+  It can do more operations than pocket caluculator like trignometric functions,square and cube of a numbers,factorials etc.We can use bigger numbers in this caluculator.
 
 ## REQUIREMENTS:
   
