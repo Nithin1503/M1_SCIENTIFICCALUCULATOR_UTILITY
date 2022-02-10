@@ -49,4 +49,22 @@
   * By using c programming.
   * Using softwares like visual studiocode, github etc
   * It takes input from users and perform operations.
+
+## SWOT ANALYSIS:
+
+## STRENGTH
+  * Easy to use.
+  * Faster caluculations.
+  * Helps students and shopkeepers in mathematical operations.
+
+## WEAKNESS
+  * Solar based.
+  * No light facility.
+
+## OPPURTUNITIES
+  * Too many General stores, Medical shops, resturants, Hotels, Schools etc.
+  * Large number of students and shopkeepers.
+
+## THREAT
+  * More advanced  mobile phones are used instead of caluculators.
                        
