@@ -1,7 +1,7 @@
 /**
  * @file calci.c
- * @author your name (you@domain.com)
- * @brief 
+ * @author Nithin (you@domain.com)
+ * @brief  Scientific Caluculator which perform different operations
  * @version 0.1
  * @date 2022-02-24
  * 
@@ -12,7 +12,7 @@
 #ifndef calci_H_
 #define calci_H_
 
-#include<stdio.h>
-#include<math.h>
+#include"stdio.h"
+#include"math.h"
 
 #endif
