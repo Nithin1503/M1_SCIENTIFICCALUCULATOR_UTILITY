@@ -1,7 +1,7 @@
 /**
  * @file calci.c
- * @author your name (you@domain.com)
- * @brief 
+ * @author Nithin(you@domain.com)
+ * @brief  Scientific Caluculator which perform different operations
  * @version 0.1
  * @date 2022-02-24
  * 
