@@ -11,6 +11,6 @@ How to code for scientific caluculator in c programming
 
 [![Contribution Check - Git Inspector](https://github.com/Nithin1503/M1_SCIENTIFICCALUCULATOR_UTILITY/actions/workflows/Git.yml/badge.svg)](https://github.com/Nithin1503/M1_SCIENTIFICCALUCULATOR_UTILITY/actions/workflows/Git.yml)
 
-(https://api.codiga.io/project/31092/score/svg)
+https://api.codiga.io/project/31092/score/badge.svg
 
 https://api.codiga.io/project/31092/status/svg
