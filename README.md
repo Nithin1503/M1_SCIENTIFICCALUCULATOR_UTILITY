@@ -1,6 +1,18 @@
 # M1_SCIENTIFICCALUCULATOR_UTILITY
 How to code for scientific caluculator in c programming
 
+# FOLDER STRUCTURE
+
+|      FOLDER      |       DESCRIPTION      |
+|------------------|------------------------|
+| 0_CERTIFICATES   | certificates           |
+| 1_REQUIREMENT    |  HLR&LLR, 5W&1H, Swot Anaylsis |
+| 2_ARCHITECTURE   |  Block diagrams specifying about design           |
+| 3_ IMPLEMENTATION| All code files         |
+| 4_Test plan and Output | Test plans and procedures |
+| 5_REPORT         |  Detailed Report of project |
+| 6_IMAGES         | Screenshots of Implementation and output       |
+| 7_REFERENCES     | References related to Project                  |
 
 
 ## Badges
