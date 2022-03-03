@@ -1,11 +1,25 @@
 #TargetName:Dependencies
 #<TAB>commands
 
-Build:calci.c
-	gcc calci.c -o calci.out
+PROJ_NAME = Scientific Caluculator
+SRC=main.c calci.c  
+ifdef OS
+   RM = del /q
+   FixPath = $(subst /,\,$1)
+   EXEC = exe
+else
+   ifeq ($(shell uname), Linux)
+      RM = rm -rf
+      FixPath = $1
+	  EXEC = out
+   endif
+endif
 
-Run:calci.out
-	./calci.out
+Build : $(SRC)  
+	gcc $(SRC) -o $(call FixPath,$(PROJ_NAME).$(EXEC)) -lm
+
+Run :Build	
+	./$(call FixPath,$(PROJ_NAME).$(EXEC))
 
 Clean:
-	rm -rf  *.o *.out *.i *.s
+	$(RM) $(call FixPath,*.out) 
