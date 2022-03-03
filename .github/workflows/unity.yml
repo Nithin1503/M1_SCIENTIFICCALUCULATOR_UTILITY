@@ -14,5 +14,5 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: make Build_test
-      run: make -C 3_Imlementation
+      run: make -C 3_Implementation
     
