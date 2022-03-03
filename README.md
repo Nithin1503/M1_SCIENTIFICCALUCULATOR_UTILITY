@@ -11,7 +11,7 @@ How to code for scientific caluculator in c programming
 | 3_ IMPLEMENTATION| All code files         |
 | 4_Test plan and Output | Test plans and procedures |
 | 5_REPORT         |  Detailed Report of project |
-| 6_IMAGES         | Screenshots of Implementation and output       |
+| 6_IMAGES         | Screenshots of Implementation and Output       |
 | 7_REFERENCES     | References related to Project                  |
 
 
