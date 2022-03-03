@@ -1,7 +1,7 @@
 /**
  * @file calci.c
- * @author Nithin (you@domain.com)
- * @brief  Scientific Caluculator which perform different operations
+ * @author Nithin 
+ * @brief  This project is about Scientific Caluculator which perform different operations.
  * @version 0.1
  * @date 2022-02-24
  * 
